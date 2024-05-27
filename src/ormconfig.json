@@ -1,0 +1,10 @@
+{
+  "type": "mysql2",
+  "host": "localhost",
+  "port": 3306,
+  "username": "root",
+  "password": "#tea1",
+  "database": "biometric_attendance_app",
+  "entities": ["dist/**/*.entity{.ts,.js}"],
+  "synchronize": true
+}
